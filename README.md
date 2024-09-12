@@ -1,2 +1,2 @@
 # 1st-repo
-it's my 1st project
+it's my 1st project with SC
